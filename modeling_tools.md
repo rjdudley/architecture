@@ -24,3 +24,6 @@ Open ModelSphere is a powerful data, process and UML modeling tool
 
 Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks. Using Oracle SQL Developer Data Modeler users can create, browse and edit, logical, relational, physical, multi-dimensional, and data type models. The Data Modeler provides forward and reverse engineering capabilities and supports collaborative development through integrated source code control. The Data Modeler can be used in both traditional and in Cloud environments.
 
+<a href="https://www.simple-talk.com/sql/database-administration/five-online-database-modelling-services/">Five Online Database Modelling Services</a>
+
+To design, or redesign, a database of any complexity, the Entity-Relationship modelling tool becomes essential. The specialized tools that have dominated the industry for a long while are expensive and are installed on a workstation. Now that browser technology has progressed so rapidly, the online database modelling tools have become viable and are starting to attract the attention of database designers. Are they good enough to use now? Robert Sheldon finds out.
