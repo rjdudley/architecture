@@ -6,6 +6,10 @@
 
 A free and open source modelling tool to create ArchiMate models and sketches. Used by hundreds of Enterprise Architects throughout the world.
 
+<a href="http://argouml.tigris.org/" target="_blank">ArgoUML</a>
+
+ArgoUML is the leading open source UML modeling tool and includes support for all standard UML 1.4 diagrams.
+
 ## Data Modeling
 
 <a href="http://www.sqlpower.ca/page/architect" target="_blank">SQL Power Architect - Community Edition</a>
