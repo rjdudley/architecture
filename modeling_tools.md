@@ -40,3 +40,17 @@ Makes generating complex SQL/DDL fast and easy
 Permits you to create and modify scripts
 Enables you to reverse and forward engineer both databases and data warehouse systems.
 The Freeware edition has certain limitations, and is not intended to be used as a TRIAL for the commercial edition of Toad Data Modeler.
+
+## ERD
+
+<a href="http://mogwai.sourceforge.net/erdesignerng.html" target="_blank">Mogwai</a>
+
+The Mogwai ERDesigner is an entity relationship modeling/design tool(ERD) such as ERWin and co. The only difference is that it is Open Source and does not cost anything. It was designed to make database modeling as easy as it can be and to support the developer in the whole development process, from database design to schema and code generation.
+
+<a href="https://erdplus.com/#/" target="_blank">ERDPlus</a>
+
+A database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
+
+<a href="https://jeddict.github.io/index.html" target="_blank">Jeddict</a>
+
+Jeddict is an open source graphical tool that enhances productivity and simplifies development tasks of creating complex entity relationship models. Using it developers can create JPA class, visualize & modify Database and automates Java EE 8 code generation. The Jeddict provides forward & reverse engineering capabilities, import models from existing database, generate complex SQL/DDL and much more.
